@@ -1,24 +1,3 @@
-@media screen and (max-width: 992px) {
-   .disclaimer-premium {
-    display: none;
-   }
-
-   .sidebar {
-    display: none;
-   }
-
-   .library {
-    display: none;
-   }
-
-   .header__navigation {
-    width: 100vw;
-   }
-}
-
-@media screen and (min-width: 992px) {
-   
-}
 
 
 
